@@ -1,0 +1,66 @@
+*{
+    font-family: 'Quicksand', sans-serif;
+    margin: 0px;
+    padding: 0px;
+
+    
+}
+.navbar{
+    height: 80px;
+    width: auto;
+   
+    margin: 0px;
+    padding: 0px;
+
+    
+}
+.container-fluid{
+   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    
+    position: absolute;
+    width: 1675px;
+    height: 40px;
+    
+
+    background: rgba(255, 255, 255, 1e-06);
+}
+
+.carousel-item img{
+    width: 1728px;
+    height: 591px;
+}
+
+.para h5{
+    width: 83px;
+    height: 24px;
+
+    display: flex;
+    align-items: center;
+    color: #212529;
+    line-height: 24px;
+}
+.para p{
+
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+
+    height: 144px;
+}
+
+.card .card-body p{
+    
+height: 72px;
+font-family: 'Quicksand', sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+}
+
+
+
